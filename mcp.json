@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "context-pruner": {
+      "command": "python",
+      "args": ["-m", "context_pruner_mcp"],
+      "env": {}
+    }
+  }
+}
